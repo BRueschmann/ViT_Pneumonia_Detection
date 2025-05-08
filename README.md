@@ -6,5 +6,4 @@ Directory Structure:
 * code_mi_p2.py   (Python script used to train models on HPC and containing all functions used by the notebook)
 * report_mi_p2.pdf.   (pdf report explaining all steps and results in detail)
 * slurm_script_mi_p2.sh  (Example Bash script used to submit jobs to HPC)
-* video_mi_p2.mp4  (Video of predictions of final produced ensemble model)
 * Requirements.txt   (Python packages needed to run the code)
