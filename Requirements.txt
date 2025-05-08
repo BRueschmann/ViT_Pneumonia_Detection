@@ -1,0 +1,12 @@
+transformers[torch]
+accelerate>=0.26.0
+numpy
+matplotlib
+Pillow
+torch
+torchvision
+scikit-learn
+pandas
+opencv-python
+scipy
+seaborn
